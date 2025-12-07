@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: name: jekyll-theme-architect
 # Theme name
 theme: jekyll-theme-architect
 remote_theme: pages-themes/architect@v0.2.0
