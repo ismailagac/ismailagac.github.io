@@ -1,5 +1,7 @@
-title: DevOps & Cloud Portfolio
+title: DevOps Portfolio
 description: Willkommen! Hier sind meine Projekte aus Cloud, CI/CD, Kubernetes, Monitoring und Automation.
 show_downloads: false
+gitgub:
+  is_project_page: true
 google_analytics:
 theme: jekyll-theme-architect
